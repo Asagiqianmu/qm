@@ -49,6 +49,7 @@
 	/*------ header -----*/	
 	.for-sticky{ padding: 0; }
 	.logo-nav { margin-left: 0;}
+	.music_ioc { left:45px;}
 	.menu-button{margin-right: 15px;}
 	.ma-infinitypush-wrapper.ma-infinitypush-active-button.ma-infinitypush-button-right .ma-infinitypush-button{
 		left: -65px;
