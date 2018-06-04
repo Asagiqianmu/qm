@@ -1235,8 +1235,26 @@ ul.portfolio-image li .desc{
 }
 .skillst .count-bar .count { background-color: #818181;}
 .skillst .count-bar .count span:after { border-top: 4px solid #818181;}
-.music{width: 45px;
+.icon_s{
+  width: 45px;
+}
+.music_ioc{
+  width: 45px;
+  height: 45px;
   position: absolute;
-  top: 6px;
-  margin-left: 60px;
+  top: 1px;
+  left: 62px;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.music{
+  margin-top: -46px;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s;
   }
+.music_s{
+  margin-top:-1px;
+}
