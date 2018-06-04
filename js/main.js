@@ -194,5 +194,14 @@
       }
     });
   }
+        $("#music").click(function(){
+            var oAudio = document.getElementById('myaudio');
+            if (oAudio.paused) {
+                oAudio.play();
+            }
+            else {
+                oAudio.pause();
+            }
+        })
 
 })(jQuery);
