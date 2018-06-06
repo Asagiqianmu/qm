@@ -10,11 +10,14 @@
     <link href="images/favicon.ico" rel="shortcut icon">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/blog.css" rel="stylesheet">
+    <link href="css/blog-responsive.css" rel="stylesheet">
+    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="js/blog.js"></script>
 </head>
 <body>
 <!--blog_list-->
-    <div class="blog_left">
-        <div class="blog_list">
+    <div class="blog_left" id="blog_left">
+        <div class="blog_list" id="blog_list">
             <div class="user_ioc" ><a href="index.html"><img class="logo" src="images/logo_b.png"></a></div>
             <span class="blog_name">- Asagi -</span>
             <div class="list">
@@ -24,12 +27,18 @@
                 <div class="js">Jquery/Javascript</div>
                 <div class="other">其他博文</div>
             </div>
+            <!--<div class="emil"><span>1175609090@qq.com</span></div>-->
         </div>
     </div>
 <!--blog_list-->
 <!--blog_blurb-->
     <div class="text_head">
         <div class="head_menu">
+            <div class="menu_list" id="menu_list">
+                <span class="menu_o"></span>
+                <span class="menu_t"></span>
+                <span class="menu_h"></span>
+            </div>
             <div class="name">| Asagi</div>
             <div class="line"></div>
         </div>
@@ -119,6 +128,7 @@
                 </div>
             </div>
         </div>
+        <div class="footer"></div>
     </div>
 <!--blog_blurb-->
 </body>
