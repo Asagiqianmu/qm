@@ -13,7 +13,7 @@
     <link href="css/blog-responsive.css" rel="stylesheet">
     <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
     <script type="text/javascript" src="js/blog.js"></script>
-    <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <script async src="js/busuanzi.pure.mini.js"></script>
 </head>
 <body>
 <!--blog_list-->
@@ -22,13 +22,14 @@
             <div class="user_ioc" ><a href="index.html"><img class="logo" src="images/logo_b.png"></a></div>
             <span class="blog_name">- Asagi -</span>
             <div class="list">
-                <div class="all">全部</div>
-                <div class="css">Css</div>
-                <div class="html">Html</div>
-                <div class="js">Jquery/Javascript</div>
-                <div class="other">其他博文</div>
+                <div class="all" id="all">全部</div>
+                <div class="css" id="css">Css</div>
+                <div class="html" id="html">Html</div>
+                <div class="js" id="js">Jquery/Javascript</div>
+                <div class="other" id="other">其他博文</div>
             </div>
             <div class="emil"><span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span></div>
+            <div class="footer"></div>
         </div>
     </div>
 <!--blog_list-->
@@ -46,7 +47,7 @@
     </div>
     <div class="blog_right">
         <div class="blog_conter">
-            <div class="blog_conter_title">
+            <div class="blog_conter_all">
                 <div class="blog_blurb">
                     <div class="text_description">
                         <div class="text_img" ><img class="text_log" src="images/logo_b.png"> </div>
@@ -125,6 +126,120 @@
                                 <span>《平凡的世界》时间跨度从1975年到1985年，全景式地反映了中国近10年间城乡社会生活的巨大历史性变迁；以孙少安和孙少平两兄弟为中心，以整个社会的变迁、思想的转型为背景，通过复杂的矛盾纠葛，刻画了社会各阶层普通人们的形象，成功地塑造了孙少安和孙少平这些为生活默默承受着人生苦难的人们，在这里人性的自尊、自强与自信，人生的苦难与拼搏，挫折与追求，痛苦与欢乐，纷繁地交织，读来令人荡气回肠，不忍释卷。</span>
                             </div>
                         </div>
+                    </div>
+                </div>
+            </div>
+            <div class="blog_conter_css">
+                <div class="blog_blurb_css">
+                    <div class="text_css">
+                        人生若只如初见，何事秋风悲画扇。
+                        等闲变却故人心，却道故人心易变。
+                        骊山语罢清宵半，泪雨零铃终不怨。
+                    </div>
+                    <div class="foot_css">
+                        <div class="css_time">2018年6月4日</div>
+                        <div class="text_sort">|&nbsp&nbsp&nbsp&nbsp分类：Css</div>
+                        <div class="text_writer">|&nbsp&nbsp&nbsp&nbsp作者：Asagi</div>
+                    </div>
+                </div>
+                <div class="blog_blurb_css">
+                    <div class="text_css">
+                        人生若只如初见，何事秋风悲画扇。
+                        等闲变却故人心，却道故人心易变。
+                        骊山语罢清宵半，泪雨零铃终不怨。
+                    </div>
+                    <div class="foot_css">
+                        <div class="css_time">2018年6月4日</div>
+                        <div class="text_sort">|&nbsp&nbsp&nbsp&nbsp分类：Css</div>
+                        <div class="text_writer">|&nbsp&nbsp&nbsp&nbsp作者：Asagi</div>
+                    </div>
+                </div>
+                <div class="blog_blurb_css">
+                    <div class="text_css">
+                        人生若只如初见，何事秋风悲画扇。
+                        等闲变却故人心，却道故人心易变。
+                        骊山语罢清宵半，泪雨零铃终不怨。
+                    </div>
+                    <div class="foot_css">
+                        <div class="css_time">2018年6月4日</div>
+                        <div class="text_sort">|&nbsp&nbsp&nbsp&nbsp分类：Css</div>
+                        <div class="text_writer">|&nbsp&nbsp&nbsp&nbsp作者：Asagi</div>
+                    </div>
+                </div>
+            </div>
+            <div class="blog_conter_html">
+                <div class="blog_blurb_html">
+                    <div class="text_html">
+                        人生若只如初见，何事秋风悲画扇。
+                        等闲变却故人心，却道故人心易变。
+                        骊山语罢清宵半，泪雨零铃终不怨。
+                    </div>
+                    <div class="foot_html">
+                        <div class="html_time">2018年6月4日</div>
+                        <div class="text_sort">|&nbsp&nbsp&nbsp&nbsp分类：Css</div>
+                        <div class="text_writer">|&nbsp&nbsp&nbsp&nbsp作者：Asagi</div>
+                    </div>
+                </div>
+                <div class="blog_blurb_html">
+                    <div class="text_html">
+                        人生若只如初见，何事秋风悲画扇。
+                        等闲变却故人心，却道故人心易变。
+                        骊山语罢清宵半，泪雨零铃终不怨。
+                    </div>
+                    <div class="foot_html">
+                        <div class="html_time">2018年6月4日</div>
+                        <div class="text_sort">|&nbsp&nbsp&nbsp&nbsp分类：Css</div>
+                        <div class="text_writer">|&nbsp&nbsp&nbsp&nbsp作者：Asagi</div>
+                    </div>
+                </div>
+                <div class="blog_blurb_html">
+                    <div class="text_html">
+                        人生若只如初见，何事秋风悲画扇。
+                        等闲变却故人心，却道故人心易变。
+                        骊山语罢清宵半，泪雨零铃终不怨。
+                    </div>
+                    <div class="foot_html">
+                        <div class="html_time">2018年6月4日</div>
+                        <div class="text_sort">|&nbsp&nbsp&nbsp&nbsp分类：Css</div>
+                        <div class="text_writer">|&nbsp&nbsp&nbsp&nbsp作者：Asagi</div>
+                    </div>
+                </div>
+            </div>
+            <div class="blog_conter_js">
+                <div class="blog_blurb_js">
+                    <div class="text_js">
+                        人生若只如初见，何事秋风悲画扇。
+                        等闲变却故人心，却道故人心易变。
+                        骊山语罢清宵半，泪雨零铃终不怨。
+                    </div>
+                    <div class="foot_js">
+                        <div class="js_time">2018年6月4日</div>
+                        <div class="text_sort">|&nbsp&nbsp&nbsp&nbsp分类：Css</div>
+                        <div class="text_writer">|&nbsp&nbsp&nbsp&nbsp作者：Asagi</div>
+                    </div>
+                </div>
+                <div class="blog_blurb_js">
+                    <div class="text_js">
+                        人生若只如初见，何事秋风悲画扇。
+                        等闲变却故人心，却道故人心易变。
+                        骊山语罢清宵半，泪雨零铃终不怨。
+                    </div>
+                    <div class="foot_js">
+                        <div class="js_time">2018年6月4日</div>
+                        <div class="text_sort">|&nbsp&nbsp&nbsp&nbsp分类：Css</div>
+                        <div class="text_writer">|&nbsp&nbsp&nbsp&nbsp作者：Asagi</div>
+                    </div>
+                </div>
+                <div class="blog_blurb_js">
+                    <div class="text_js">
+                        人生若只如初见，何事秋风悲画扇。
+                        等闲变却故人心，却道故人心易变。
+                        骊山语罢清宵半，泪雨零铃终不怨。
+                    </div>
+                    <div class="foot_js">
+                        <div class="js_time">2018年6月4日</div>
+                        <div class="text_sort">|&nbsp&nbsp&nbsp&nbsp分类：Css</div>
+                        <div class="text_writer">|&nbsp&nbsp&nbsp&nbsp作者：Asagi</div>
                     </div>
                 </div>
             </div>
