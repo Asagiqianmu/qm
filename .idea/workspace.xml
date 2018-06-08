@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d7c5a01-e2ef-4f31-9271-7dc97a3f84b1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/js/busuanzi.pure.mini.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/blog-responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/blog-responsive.css" afterDir="false" />
@@ -33,8 +32,8 @@
       <file leaf-file-name="blog.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="55" column="42" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
+            <state relative-caret-position="450">
+              <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -51,8 +50,8 @@
       <file leaf-file-name="blog.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/blog.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="42" />
+            <state relative-caret-position="325">
+              <caret line="13" column="45" lean-forward="true" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -72,8 +71,8 @@
       <file leaf-file-name="blog.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/blog.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="165" column="22" lean-forward="true" selection-start-line="165" selection-start-column="22" selection-end-line="165" selection-end-column="22" />
+            <state relative-caret-position="642">
+              <caret line="68" column="19" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -81,7 +80,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-50">
+            <state relative-caret-position="25">
               <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
             </state>
           </provider>
@@ -99,17 +98,8 @@
       <file leaf-file-name="blog-responsive.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/blog-responsive.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="73" column="27" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2100">
-              <caret line="84" column="23" lean-forward="true" selection-start-line="84" selection-start-column="6" selection-end-line="84" selection-end-column="23" />
+            <state relative-caret-position="542">
+              <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -127,16 +117,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>wechat</find>
-      <find>www</find>
-      <find>Addc</find>
-      <find>music</find>
-      <find>url</find>
-      <find>.scroll-to-top</find>
-      <find>scroll-to-top</find>
-      <find>autoPlay</find>
-      <find>scrollTop(</find>
-      <find>scrollPosition</find>
       <find>onScroll</find>
       <find>1175</find>
       <find>show-menu</find>
@@ -157,6 +137,16 @@
       <find>.text_title</find>
       <find>text_title</find>
       <find>blog_conter_all</find>
+      <find>blog_conter_js</find>
+      <find>blog_blurb_js</find>
+      <find>text_js</find>
+      <find>foot_js</find>
+      <find>js_time</find>
+      <find>js</find>
+      <find>text_other</find>
+      <find>_time</find>
+      <find>all</find>
+      <find>list</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -178,9 +168,9 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/blog-responsive.ts" />
         <option value="$PROJECT_DIR$/js/busuanzi.pure.mini.js" />
-        <option value="$PROJECT_DIR$/blog.html" />
         <option value="$PROJECT_DIR$/css/blog-responsive.css" />
         <option value="$PROJECT_DIR$/css/blog.css" />
+        <option value="$PROJECT_DIR$/blog.html" />
         <option value="$PROJECT_DIR$/js/blog.js" />
       </list>
     </option>
@@ -203,7 +193,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-4" />
     <option name="y" value="15" />
-    <option name="width" value="1836" />
+    <option name="width" value="1472" />
     <option name="height" value="1000" />
   </component>
   <component name="ProjectView">
@@ -276,7 +266,8 @@
       <workItem from="1528267028037" duration="9767000" />
       <workItem from="1528277421894" duration="3438000" />
       <workItem from="1528281270869" duration="186000" />
-      <workItem from="1528336244624" duration="15436000" />
+      <workItem from="1528336244624" duration="15491000" />
+      <workItem from="1528424330433" duration="8166000" />
     </task>
     <task id="LOCAL-00001" summary="图片更新">
       <created>1527840476706</created>
@@ -313,11 +304,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528281443664</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Repair Bug">
+      <created>1528371572778</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1528371572778</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60294000" />
+    <option name="totallyTimeSpent" value="68515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="15" width="1836" height="1000" extended-state="0" />
@@ -356,13 +354,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Repair Bug" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
@@ -621,9 +612,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/busuanzi.pure.mini.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1550">
+          <caret line="62" column="2" selection-start-line="62" selection-start-column="2" selection-end-line="62" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
+        <state relative-caret-position="25">
           <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
         </state>
       </provider>
@@ -638,6 +636,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/blog-responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="186" column="16" selection-start-line="186" selection-start-column="16" selection-end-line="186" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/blog.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="68" column="19" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
@@ -645,38 +664,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/busuanzi.pure.mini.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1550">
-          <caret line="62" column="2" selection-start-line="62" selection-start-column="2" selection-end-line="62" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/blog-responsive.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="73" column="27" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="55" column="42" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/blog.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="165" column="22" lean-forward="true" selection-start-line="165" selection-start-column="22" selection-end-line="165" selection-end-column="22" />
+        <state relative-caret-position="450">
+          <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/blog.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="42" />
+        <state relative-caret-position="325">
+          <caret line="13" column="45" lean-forward="true" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
         </state>
       </provider>
     </entry>

@@ -44,6 +44,16 @@
         padding-left:2%;
         margin-top: 75px;
     }
+    .blog_conter_js{
+        width: 100%;
+        padding-left:2%;;
+        margin-top: 75px;
+    }
+    .blog_conter_other{
+        width: 100%;
+        padding-left:2%;;
+        margin-top: 75px;
+    }
     .text_css{
         padding-right: 0;
     }
@@ -53,10 +63,8 @@
     .text_js{
         padding-right: 0;
     }
-    .blog_conter_js{
-        width: 100%;
-        padding-left:2%;;
-        margin-top: 75px;
+    .text_other{
+        padding-right: 0;
     }
     .blog_name{
         margin-left: 66px;
@@ -121,6 +129,7 @@
     .text_intro{
         width: 100%;
         margin-left:0;
+        padding-right: 10px;
     }
     .text_head{
         height:50px;
