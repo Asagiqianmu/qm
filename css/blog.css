@@ -412,3 +412,7 @@ html{
 .footer{
     height: 50px;
 }
+.head{
+    text-align: left;
+    font-size: 40px;
+}
